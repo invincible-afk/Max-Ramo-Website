@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     locale: "es_ES",
     images: [
       {
-        url: "/mi-website.png", // 
+        url: "/logo.svg", // 
         width: 1200,
         height: 630,
         alt: "Max Ramo - Portfolio",
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Max Ramo - Desarrollador & Artista",
     description: "Fusiono tecnología, arte y narrativa para crear experiencias con identidad.",
-    images: ["/og-image.jpg"],
+    images: ["/logo.svg"],
     creator: "@max_ramo", // opcional si tenés Twitter
   },
 
