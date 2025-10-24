@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Max Ramo - Desarrollador & Artista",
   description:
-    "Portfolio de Max Ramo - Fusiono tecnología, arte y narrativa para crear experiencias con identidad. Desarrollador Web & Blockchain, Artista Tatuador y Escritor.",
+    "Portfolio de Max Ramo - Fusiono tecnología y arte para crear experiencias con identidad. Desarrollador Web & Blockchain, Artista Tatuador y Escritor.",
   keywords: ["Max Ramo", "desarrollador web", "blockchain developer", "tatuador", "artista", "escritor", "portfolio"],
   authors: [{ name: "Max Ramo" }],
   openGraph: {
