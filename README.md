@@ -44,7 +44,7 @@ Mi objetivo es **fusionar ingeniería y arte** para construir productos digitale
 
 ## 🖼️ Previsualización
 
-![Preview](./public/logo.svg)
+![Preview](./public/logo.png)
 
 ---
 
