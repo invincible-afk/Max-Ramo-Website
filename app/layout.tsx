@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     "portfolio",
   ],
   authors: [{ name: "Max Ramo" }],
-  generator: "v0.app",
+  generator: "Max Ramo",
   metadataBase: new URL("https://max-ramo-website.vercel.app"),
 
   // 🖼️ OPEN GRAPH PARA MINIATURA
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     locale: "es_ES",
     images: [
       {
-        url: "/og-image.jpg", // 👈 debe estar en /public
+        url: "/mi-website.png", // 
         width: 1200,
         height: 630,
         alt: "Max Ramo - Portfolio",
