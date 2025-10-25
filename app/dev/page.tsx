@@ -26,13 +26,6 @@ const projects = [
     link: "https://dos-galaxias-serigrafia.vercel.app/",
     github: "https://github.com/invincible-afk/dos-galaxias-serigrafia",
   },
-  {
-    title: "Sitio Web Herederos - Productora de Eventos",
-    description: "Sitio web oficial de Herederos una Productora de Eventos especializada en eventos sociales personalizados, únicos y memorables.",
-    tags: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-    link: "https://herederos-productora-de-eventos.vercel.app/",
-    github: "https://github.com/invincible-afk/Herederos",
-  },
 
 ]
 
