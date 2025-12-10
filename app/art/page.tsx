@@ -27,7 +27,7 @@ const artworks = [
   },
   {
     title: "Fénix Ígneo: Resurgimiento y Fuerza",
-    description: "Tatuaje de fénix de gran escala en la espalda, ejecutado con lineas finas y un efecto de acuarela sutil. Combinamos la intensidad del negro con toques vibrantes de dorado, simbolizandoel renacimiento, la pasión y la superación personal.",
+    description: "Tatuaje de fénix de gran escala en la espalda, ejecutado con lineas finas y un efecto de acuarela sutil. Combinamos la intensidad del negro con toques vibrantes de dorado, simbolizando el renacimiento, la pasión y la superación personal.",
     image: "/fenix-tattoo.jpg",
   },
   {
@@ -42,7 +42,7 @@ const artworks = [
   },
     {
     title: "Rostro de Jesús",
-    description: "Retrato de Jesucristo en Black & Greycon sombreado en dotwortk y un efecto de rayo de luz. Esta poderosa pieza combina realismo con elementos gráficos, enfocada en la expresion profunda y la iconografía religiosa.",
+    description: "Retrato de Jesucristo en Black & Grey con sombreado en dotwortk y un efecto de rayo de luz. Esta poderosa pieza combina realismo con elementos gráficos, enfocada en la expresion profunda y la iconografía religiosa.",
     image: "/jesus-02.jpg",
   },
 ]
