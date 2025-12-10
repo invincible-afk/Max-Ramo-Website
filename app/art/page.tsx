@@ -26,19 +26,24 @@ const artworks = [
     image: "/tattoo-vikingo.png",
   },
   {
-    title: "Yggdrasil y Vegvísir",
-    description: "Diseño que une el árbol de la vida nórdico (Yggdrasil) con el Vegvísir, símbolos de conexión, guía y protección. Representando fuerza, equilibrio y el camino interior del portador.",
-    image: "/tattoo-vikingo.png",
+    title: "Fénix Ígneo: Resurgimiento y Fuerza",
+    description: "Tatuaje de fénix de gran escala en la espalda, ejecutado con lineas finas y un efecto de acuarela sutil. Combinamos la intensidad del negro con toques vibrantes de dorado, simbolizandoel renacimiento, la pasión y la superación personal.",
+    image: "/fenix-tattoo.jpg",
   },
   {
-    title: "Yggdrasil y Vegvísir",
-    description: "Diseño que une el árbol de la vida nórdico (Yggdrasil) con el Vegvísir, símbolos de conexión, guía y protección. Representando fuerza, equilibrio y el camino interior del portador.",
-    image: "/tattoo-vikingo.png",
+    title: "Flores en puntillismo de arrastre",
+    description: Delicado diseño floral en Black and Grey, con un enfoque en la técnica de sombreado de alto contraste en puntillismo de arrastre. La composición se adapta a la silueta, creando una pieza elegante y femenina que enfatiza la belleza natural.",
+    image: "/flores-tattoo.jpg",
   },
   {
-    title: "Yggdrasil y Vegvísir",
-    description: "Diseño que une el árbol de la vida nórdico (Yggdrasil) con el Vegvísir, símbolos de conexión, guía y protección. Representando fuerza, equilibrio y el camino interior del portador.",
-    image: "/tattoo-vikingo.png",
+    title: "Kraken",
+    description: "Tatuaje de un pulpo en la pierna, con un estilo detallado y casi hiperrealista. El sombreado y el dotwork confieren textura a la piel y los tentáculos, capturando la inteligencia, el misterio y la complejidad de la vida marina.",
+    image: "/skrull-pulpo.jpg",
+  },
+    {
+    title: "Rostro de Jesús",
+    description: "Retrato de Jesucristo en Black & Greycon sombreado en dotwortk y un efecto de rayo de luz. Esta poderosa pieza combina realismo con elementos gráficos, enfocada en la expresion profunda y la iconografía religiosa.",
+    image: "/jesus-02.jpg",
   },
 ]
 
