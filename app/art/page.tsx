@@ -25,6 +25,21 @@ const artworks = [
     description: "Diseño que une el árbol de la vida nórdico (Yggdrasil) con el Vegvísir, símbolos de conexión, guía y protección. Representando fuerza, equilibrio y el camino interior del portador.",
     image: "/tattoo-vikingo.png",
   },
+  {
+    title: "Yggdrasil y Vegvísir",
+    description: "Diseño que une el árbol de la vida nórdico (Yggdrasil) con el Vegvísir, símbolos de conexión, guía y protección. Representando fuerza, equilibrio y el camino interior del portador.",
+    image: "/tattoo-vikingo.png",
+  },
+  {
+    title: "Yggdrasil y Vegvísir",
+    description: "Diseño que une el árbol de la vida nórdico (Yggdrasil) con el Vegvísir, símbolos de conexión, guía y protección. Representando fuerza, equilibrio y el camino interior del portador.",
+    image: "/tattoo-vikingo.png",
+  },
+  {
+    title: "Yggdrasil y Vegvísir",
+    description: "Diseño que une el árbol de la vida nórdico (Yggdrasil) con el Vegvísir, símbolos de conexión, guía y protección. Representando fuerza, equilibrio y el camino interior del portador.",
+    image: "/tattoo-vikingo.png",
+  },
 ]
 
 export default function ArtPage() {
