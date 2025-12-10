@@ -32,7 +32,7 @@ const artworks = [
   },
   {
     title: "Flores en puntillismo de arrastre",
-    description: Delicado diseño floral en Black and Grey, con un enfoque en la técnica de sombreado de alto contraste en puntillismo de arrastre. La composición se adapta a la silueta, creando una pieza elegante y femenina que enfatiza la belleza natural.",
+    description: "Delicado diseño floral en Black and Grey, con un enfoque en la técnica de sombreado de alto contraste en puntillismo de arrastre. La composición se adapta a la silueta, creando una pieza elegante y femenina que enfatiza la belleza natural.",
     image: "/flores-tattoo.jpg",
   },
   {
